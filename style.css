@@ -1,0 +1,18 @@
+#balance{
+    display: flex;
+    justify-content: center;
+}
+#flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+#alert{
+    text-align: center;
+
+}
+span{
+    color: tomato;
+}
+.text-secondary{
+    background-color: aquamarine;
+}
