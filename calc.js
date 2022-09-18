@@ -13,8 +13,8 @@ function addTaka() {
 
 
 }
-localStorage.setItem('Taka-Balance',0);
-localStorage.setItem('cup-balance', 0);
+// localStorage.setItem('Taka-Balance',0);
+// localStorage.setItem('cup-balance', 0);
 document.getElementById('taka-balance').innerText = localStorage.getItem('Taka-Balance');
 document.getElementById('cup-balance').innerText = localStorage.getItem('cup-balance');
 
