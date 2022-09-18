@@ -19,8 +19,8 @@ const getDate = (value) => {
     // return value.datetime;
 }
 // document.getElementById('date').innerHTML = `${dateAndTime()}`;
-document.getElementById('date').innerText = localStorage.getItem('date');
-document.getElementById('cha').innerText = localStorage.getItem('drink-cha');
-document.getElementById('balance').innerText = localStorage.getItem('cup-balance');
+// document.getElementById('date').innerText = localStorage.getItem('date');
+// document.getElementById('cha').innerText = localStorage.getItem('drink-cha');
+// document.getElementById('balance').innerText = localStorage.getItem('cup-balance');
 
-showData();
+// showData();
