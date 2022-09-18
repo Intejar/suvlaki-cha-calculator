@@ -24,3 +24,4 @@ const getDate = (value) => {
 // document.getElementById('balance').innerText = localStorage.getItem('cup-balance');
 
 // showData();
+localStorage.setItem('dateandtime',showData());
